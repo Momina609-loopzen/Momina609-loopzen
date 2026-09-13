@@ -76,7 +76,7 @@ Gaining hands-on experience in Machine Learning by working with data, identifyin
 ![AI Application Development](https://img.shields.io/badge/AI%20Application%20Development-102230?style=for-the-badge)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-102230?style=for-the-badge)
 
-## Contribution Streak
+## Contribution Strea
 
 <div align="center">
 
