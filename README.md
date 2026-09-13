@@ -1,20 +1,16 @@
 <div align="center">
 
 # Momina Mustafa
-### BS Computer Science Student · AI & ML Enthusiast · Python
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Learning+AI%2C+Machine+Learning+%26+Cloud+Computing;Implementing+AI+in+Real-World+Problems;Exploring+Computer+Vision%2C+NLP+%26+Deep+Learning)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Momina609-loopzen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Location](https://img.shields.io/badge/Pakistan-22C55E?style=for-the-badge)](https://github.com/Momina609-loopzen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominamustafa/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momina609906@gmail.com)
 
 </div>
 
----
-
-## 👋 About Me
+## About Me
 
 I'm a **5th-semester BS Computer Science student** based in Pakistan with a strong interest in **Artificial Intelligence and Machine Learning**.
 
@@ -22,9 +18,7 @@ I'm currently strengthening my **Python** skills and exploring AI through hands-
 
 I enjoy learning by building, experimenting with new technologies, and turning concepts into practical solutions.
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -33,7 +27,7 @@ I enjoy learning by building, experimenting with new technologies, and turning c
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
 
 ### Frameworks & Libraries
 
@@ -41,13 +35,13 @@ I enjoy learning by building, experimenting with new technologies, and turning c
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Tools
 
@@ -59,9 +53,7 @@ I enjoy learning by building, experimenting with new technologies, and turning c
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 🚀 Key Projects
+## Key Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -70,73 +62,23 @@ I enjoy learning by building, experimenting with new technologies, and turning c
 | **Smart Household Access Control System** | A Python-based access management system that organizes household members, controls access records, and maintains activity logs using an object-oriented approach. | Python, OOP, JSON |
 | **Criminal Management System** | A C++ data management system that applies data structures and algorithms to organize, search, and manage criminal records efficiently. | C++, Data Structures, Algorithms |
 
----
+## Currently Learning
 
-## 📚 Currently Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-102230?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge)
+![AI Application Development](https://img.shields.io/badge/AI%20Application%20Development-102230?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-102230?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-102230?style=for-the-badge)
+![Android Development](https://img.shields.io/badge/Android%20Development-102230?style=for-the-badge)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-8E44AD?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-10A37F?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Android Development](https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Momina609-loopzen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momina609-loopzen&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Momina609-loopzen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E"/>
-
-</div>
-
----
-
-## 📉 Activity Graph
-
-<div align="center">
-
-[![Momina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Momina609-loopzen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| **GitHub** | [Momina609-loopzen](https://github.com/Momina609-loopzen) |
-| **LinkedIn** | [Connect with me](YOUR_LINKEDIN_URL) |
-| **Email** | YOUR_EMAIL |
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Momina609-loopzen&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-**Learning, building, and exploring the possibilities of AI.**
+<img src="https://streak-stats.demolab.com?user=Momina609-loopzen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E">
 
 </div>
