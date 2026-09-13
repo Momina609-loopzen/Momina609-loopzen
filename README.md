@@ -2,7 +2,7 @@
 
 # Momina Mustafa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Learning+AI%2C+Machine+Learning+%26+Cloud+Computing;Implementing+AI+in+Real-World+Problems;Exploring+Computer+Vision%2C+NLP+%26+Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Implementing+AI+in+Real-World+Problems;Exploring+Computer+Vision%2C+NLP+%26+Deep+Learning)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Momina609-loopzen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominamustafa/)
@@ -12,11 +12,7 @@
 
 ## About Me
 
-I'm a **5th-semester BS Computer Science student** based in Pakistan with a strong interest in **Artificial Intelligence and Machine Learning**.
-
-I'm currently strengthening my **Python** skills and exploring AI through hands-on implementation, practical projects, and real-world problem solving. I'm particularly interested in **Computer Vision, NLP, Deep Learning, and Cloud Computing**.
-
-I enjoy learning by building, experimenting with new technologies, and turning concepts into practical solutions.
+I'm a Computer Science student passionate about Artificial Intelligence and Machine Learning, focused on building practical solutions and turning ideas into real-world applications. I'm continuously strengthening my skills through hands-on projects, internships, and learning by building.
 
 ## Tech Stack
 
@@ -62,18 +58,23 @@ I enjoy learning by building, experimenting with new technologies, and turning c
 | **Smart Household Access Control System** | A Python-based access management system that organizes household members, controls access records, and maintains activity logs using an object-oriented approach. | Python, OOP, JSON |
 | **Criminal Management System** | A C++ data management system that applies data structures and algorithms to organize, search, and manage criminal records efficiently. | C++, Data Structures, Algorithms |
 
-## Currently Learning
+## Experience
 
+### Machine Learning Intern — Arch Technologies
+**September 2026 – Present**
+
+Gaining hands-on experience in Machine Learning by working with data, identifying patterns, building predictive models, and applying ML techniques to real-world problems.
+
+## Interests
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-102230?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge)
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-102230?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-102230?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge)
 ![AI Application Development](https://img.shields.io/badge/AI%20Application%20Development-102230?style=for-the-badge)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-102230?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-102230?style=for-the-badge)
-![Android Development](https://img.shields.io/badge/Android%20Development-102230?style=for-the-badge)
 
 ## Contribution Streak
 
